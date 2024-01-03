@@ -39,10 +39,11 @@
 .box3{
     background-color: rgb(216, 255, 176);
     border: 2px solid rgb(93, 93, 219);
-    /* width: 170px; */
+    width: 80vw;
     height: 40px;
-    margin: 20px;
+    margin: 20px auto;
     padding: 10px;
+    overflow: auto;
 }
 
 .box4{
